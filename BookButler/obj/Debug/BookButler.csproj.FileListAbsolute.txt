@@ -1,0 +1,16 @@
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\bin\Debug\BookButler.exe.config
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\bin\Debug\BookButler.exe
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\bin\Debug\BookButler.pdb
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\obj\Debug\BookButler.csprojAssemblyReference.cache
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\obj\Debug\BookButler.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\obj\Debug\BookButler.exe
+C:\Users\CRISTINA\Desktop\BookButler\BookButler\obj\Debug\BookButler.pdb
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\obj\Debug\BookButler.csprojAssemblyReference.cache
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\obj\Debug\BookButler.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\obj\Debug\BookButler.exe
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\obj\Debug\BookButler.pdb
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\bin\Debug\BookButler.exe.config
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\bin\Debug\BookButler.exe
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\bin\Debug\BookButler.pdb
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\bin\Debug\System.Data.SQLite.dll
+C:\Users\CRISTINA\Desktop\BookButler - Copy\BookButler\obj\Debug\BookButler.csproj.CopyComplete

@@ -1,0 +1,46 @@
+30/05/2019 20:23:56 Non history book:Title: Quijote - Author: Cervantes - Description: Aventuras - Genre: Caballeria - Year: 1605 - Rating: 5 - Paper format book
+30/05/2019 20:41:14 Non history book:Title: qq - Author: qq - Description: qq - Genre: qq - Year: 4 - Rating: 3 - Electronic format book
+31/05/2019 17:22:57 Non history book:Title: rr - Author: rr - Description: rr - Genre: rr - Year: 123 - Rating: 2 - Electronic format book
+31/05/2019 17:30:06 History book: Title: aa - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:31:23 History book: Title: aa - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:31:23 History book: Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 Paper Format
+31/05/2019 17:32:01 History book: Title: aa - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:32:01 History book: Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 Paper Format
+31/05/2019 17:32:01 History book: Title: d - Author: d - Description: d - Genre: d - Year: 3 - Rating: 4 Electronic Format
+31/05/2019 17:32:15 History book: Title: aa - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:32:15 History book: Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 Paper Format
+31/05/2019 17:32:15 History book: Title: d - Author: d - Description: d - Genre: d - Year: 3 - Rating: 4 Electronic Format
+31/05/2019 17:32:15 History book: Title: c - Author: c - Description: c - Genre: c - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:34:16 Non history book:Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 - Electronic format book
+31/05/2019 17:34:25 Non history book:Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 - Electronic format book
+31/05/2019 17:34:25 Non history book:Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 - Electronic format book
+31/05/2019 17:34:41 Non history book:Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 - Paper format book
+31/05/2019 17:34:41 Non history book:Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 - Paper format book
+31/05/2019 17:34:41 History book: Title: d - Author: d - Description: d - Genre: d - Year: 4 - Rating: 3 Paper Format
+31/05/2019 17:35:05 Non history book:Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 - Electronic format book
+31/05/2019 17:35:05 Non history book:Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 2 - Electronic format book
+31/05/2019 17:35:05 History book: Title: d - Author: d - Description: d - Genre: d - Year: 4 - Rating: 3 Paper Format
+31/05/2019 17:35:05 History book: Title: c - Author: c - Description: c - Genre: c - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:36:08 History book: Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 4 Paper Format
+31/05/2019 17:36:18 History book: Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 4 Paper Format
+31/05/2019 17:36:18 History book: Title: a - Author: a - Description: a - Genre: a - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:38:14 History book: Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 4 Paper Format
+31/05/2019 17:39:41 History book: Title: b - Author: b - Description: b - Genre: b - Year: 5 - Rating: 1 Electronic Format
+31/05/2019 17:40:57 History book: Title: b - Author: b - Description: b - Genre: b - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:41:03 History book: Title: b - Author: b - Description: b - Genre: b - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:41:03 History book: Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:41:28 History book: Title: b - Author: b - Description: b - Genre: b - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:41:28 History book: Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:41:28 History book: Title: d - Author: d - Description: d - Genre: d - Year: 3 - Rating: 2 Paper Format
+31/05/2019 17:41:37 History book: Title: b - Author: b - Description: b - Genre: b - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:41:37 History book: Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:41:37 History book: Title: d - Author: d - Description: d - Genre: d - Year: 3 - Rating: 2 Paper Format
+31/05/2019 17:41:37 History book: Title: c - Author: c - Description: c - Genre: c - Year: 3 - Rating: 4 Paper Format
+31/05/2019 17:42:45 History book: Title: a - Author: a - Description: a - Genre: a - Year: 3 - Rating: 2 Electronic Format
+31/05/2019 17:43:41 History book: Title: a - Author: a - Description: a - Genre: a - Year: 4 - Rating: 3 Electronic Format
+31/05/2019 17:44:43 Non history book:Title: c - Author: c - Description: c - Genre: c - Year: 2 - Rating: 3 - Electronic format book
+31/05/2019 17:44:59 Non history book:Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 4 - Electronic format book
+31/05/2019 17:44:59 Non history book:Title: c - Author: c - Description: c - Genre: c - Year: 2 - Rating: 3 - Electronic format book
+31/05/2019 17:45:11 Non history book:Title: a - Author: a - Description: a - Genre: a - Year: 4 - Rating: 3 - Electronic format book
+31/05/2019 17:45:11 Non history book:Title: b - Author: b - Description: b - Genre: b - Year: 3 - Rating: 4 - Electronic format book
+31/05/2019 17:45:11 Non history book:Title: c - Author: c - Description: c - Genre: c - Year: 2 - Rating: 3 - Electronic format book

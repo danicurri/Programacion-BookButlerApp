@@ -1,0 +1,23 @@
+Adding: System.Collections.Generic.Dictionary`2[System.String,System.String]
+Search: System.Collections.Generic.Dictionary`2[System.String,System.String]
+See: System.Collections.Generic.Dictionary`2[System.String,System.String]
+Edit: System.Collections.Generic.Dictionary`2[System.String,System.String]
+Delete: System.Collections.Generic.Dictionary`2[System.String,System.String]
+Adding: System.Collections.Generic.Dictionary`2+ValueCollection[System.String,System.String]
+Search: System.Collections.Generic.Dictionary`2[System.String,System.String]
+Adding: Comment: Feature to add books one by one to DB. All fields must be filled in.
+Search: System.Collections.Generic.Dictionary`2[System.String,System.String]
+Adding: Comment: Feature to add books one by one to DB. All fields must be filled in.
+Search: Comment: Search a book either by title or author.
+See: Comment: See all books in DB so far.
+Edit: Comment: Edit a particular book of your chosing.
+Delete: Comment: Delete a particular book of your liking.
+Adding: Comment: Feature to add books one by one to DB. All fields must be filled in.
+Search: Comment: Search a book either by title or author.
+See: Comment: See all books in DB so far.
+Edit: Comment: Edit a particular book of your chosing.
+Delete: Comment: Delete a particular book of your liking.
+Adding: Comment: Feature to add books one by one to DB. All fields must be filled in.
+Search: Comment: Search a book either by title or author.
+Edit: Comment: Edit a particular book of your chosing.
+Delete: Comment: Delete a particular book of your liking.
